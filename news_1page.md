@@ -1,6 +1,8 @@
 # [돈세권뉴스] 구성남 투자 - 과연 맞는 선택일까
 
-[![구성남](https://www.youtube.com/watch?v=J50w8D5NvTw/maxresdefault.jpg)](https://www.youtube.com/watch?v=J50w8D5NvTw)
+[<img src="https://img.youtube.com/vi/J50w8D5NvTw/maxresdefault.jpg" width="50%">](https://youtu.be/J50w8D5NvTw>)
+
+
 
 ### **Summary**
 
