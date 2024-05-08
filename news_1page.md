@@ -1,6 +1,6 @@
 # [돈세권뉴스] 구성남 투자 - 과연 맞는 선택일까
 
-[<img src="https://img.youtube.com/vi/J50w8D5NvTw/maxresdefault.jpg" width="50%">](https://youtu.be/J50w8D5NvTw>)
+[<video src="https://youtu.be/J50w8D5NvTw" width="50%">]
 
 
 
