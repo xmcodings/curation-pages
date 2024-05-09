@@ -1,8 +1,21 @@
+<title>[돈세권뉴스] 구성남 투자 - 과연 맞는 선택일까</title>
+<meta name="description" content="">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://xmcodings.github.io/curation-pages/news_1page">
+<meta property="og:type" content="website">
+<meta property="og:title" content="[돈세권뉴스] 구성남 투자 - 과연 맞는 선택일까">
+<meta property="og:description" content="돈세권 뉴스 - 구성남">
+<meta property="og:image" content="https://www.youtube.com/watch?v=J50w8D5NvTw/maxresdefault.jpg">
+
+
 # [돈세권뉴스] 구성남 투자 - 과연 맞는 선택일까
 
 <iframe width="300" height="200"
 src="https://www.youtube.com/embed/J50w8D5NvTw">
 </iframe>
+
+
 
 
 ### **Summary**
