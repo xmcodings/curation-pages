@@ -1,5 +1,6 @@
-title: Cayman theme
-description: abc.
-show_downloads: true
-google_analytics:
+title: 돈세권 뉴스
+description: 돈이되는 뉴스, 돈세권 지식센터 입니다
+show_downloads: false
+show_header: false
+show footer: false
 theme: jekyll-theme-cayman
