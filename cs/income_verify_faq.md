@@ -9,6 +9,6 @@
 
 ### 4. 통합 소득금액 확인
 
-![통합소득](https://github.com/xmcodings/curation-pages/blob/main/assets/images/totalincome_example.jpg)
+![통합소득](/curation-pages/assets/images/totalincome_example.jpg)
 
 근로소득과 종합소득을 더하면 통합소득을 알 수 있어요 
